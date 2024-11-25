@@ -14,18 +14,13 @@ body{
 img{
     height: 200px;
 }
-
-
-.categoria-vídeos{
-display: flex;
-overflow-x:auto;
-gap: 20px;
- {
-header 
-    border-bottom: solid 2px rgb(255, 0, 212);
+header {
+    border-bottom: solid 2px rgb(255, 0, 170);
     padding: 20px;
-
-header
+}header {
+    border-bottom: solid 2px rgb(255, 0, 234);
+    padding: 20px;
     font-size: 32px;
-    color: rgb(255, 0, 157);
+    color: rgb(255, 0, 221);
 }
+
