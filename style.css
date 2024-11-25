@@ -20,7 +20,8 @@ img{
 display: flex;
 overflow-x:auto;
 gap: 20px;
-header {
+ {
+    header
     border-bottom: solid 2px rgb(255, 0, 212);
     padding: 20px;
     font-size: 32px;
