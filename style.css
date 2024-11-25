@@ -5,6 +5,13 @@ body{
 
 
 
+header{
+    border: solid 2px rgb(241, 36, 241);
+}
+}
+
+
+
 
 .chamada-texto{
     margin-right: 100px;
@@ -12,8 +19,15 @@ body{
 
 
 img{
-    height: 200px;
+    height: 100px;
 }
+
+
+    .categoria-videos{
+        display: flex;
+        overflow-x:auto;
+        gap: 20px;
+    }
 header {
     border-bottom: solid 2px rgb(255, 0, 170);
     padding: 20px;
