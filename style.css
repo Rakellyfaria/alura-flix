@@ -8,7 +8,7 @@ body{
 
 .chamada-texto{
     margin-right: 100px;
-}+
+}
 
 
 img{
@@ -21,9 +21,11 @@ display: flex;
 overflow-x:auto;
 gap: 20px;
  {
-    header
+header 
     border-bottom: solid 2px rgb(255, 0, 212);
     padding: 20px;
+
+header
     font-size: 32px;
     color: rgb(255, 0, 157);
 }
